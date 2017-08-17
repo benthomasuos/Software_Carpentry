@@ -1,1 +1,3 @@
 AAAAARRRRRRRRRRRRRRRRRRGGGGGGGGGGGGGGGGGGGGGHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!
+
+https://swcarpentry.github.io/git-novice/09-conflict/
